@@ -3,6 +3,11 @@
 La idea es tener un conjunto de conocimiento para cada término. Relacionados entre si. Base para el estudio y dominio de 
 técnicas, tecnologías y habilidades que un profesional debe dominar
 
+teórico
+1. Clean Architectura/ Hex / DDD
+técnico
+2. Markdown
+3. Bash and Makefile
 
 ## TODO
 

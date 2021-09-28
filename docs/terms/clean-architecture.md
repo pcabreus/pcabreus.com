@@ -4,6 +4,8 @@ related: architecture.md
 state: todo
 ---
 
+https://apiumhub.com/es/tech-blog-barcelona/codigo-limpio-concepto-beneficios-libros/
+
 # Arquitecturas limpias
 
 Permite separar responsabilidades mediante capas, definiendo reglas de dependencias entre ellas. 

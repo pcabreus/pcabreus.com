@@ -4,6 +4,8 @@ keywords: architecture, pattern
 state: draft
 ---
 
+https://apiumhub.com/es/tech-blog-barcelona/arquitectura-de-software/
+
 # Arquitectura de software
 
 Conjunto de patrones que proporcionan un marco de referencia para guiar la construcción de un software.
