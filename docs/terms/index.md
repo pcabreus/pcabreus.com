@@ -138,7 +138,8 @@ regex:
 
 agile/team:
 	story points: helps to measure the amount of points a team can do in the next sprint.
-
+    porque se usan fibonachi
+    
 Tools:
 	doodle tool??? buscar en internet.
 	senddesk
@@ -191,3 +192,12 @@ React:
 
 React/Markdown
 	remark: https://remark.js.org/
+	
+Estudio
+Bases de datos consultas complejas
+Expresiones regulares
+CQRS
+https://github.com/msgphp/symfony-demo-app
+https://docs.microsoft.com/es-es/azure/architecture/patterns/cqrs
+https://www.youtube.com/watch?v=8t0vNu2fCCM 
+WebPush notifications: https://web-push-book.gauntface.com/    https://github.com/bpolaszek/webpush-bundle

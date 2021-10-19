@@ -7,7 +7,11 @@ Ejemplo:
 
     Rol de Senior Developer con Symfony/PHP en una tienda electrónica que están migrando a una arquitectura de microservicios en AWS.
 
-
+Skils for Senior Dev:
+- Experience of 4 years: developing web based applications, preferably in PHP.
+- Demonstrable experience using industry good practices: SOLID, Clean Code, Refactoring, Unit Testing/TDD, Hexagonal Architecture and Domain Driven Design.
+- Language: Able to communicate fluently in X(written and spoken)
+- Team Player: you enjoy working with people and solving problems together.
 
 Desarrollador de software
 - Newvy
