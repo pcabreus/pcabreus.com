@@ -62,6 +62,7 @@ Testing:
 	pruebas de regresión automatizadas
 
 SOLID, Pathern, Architecture:
+	Constraints (Restricciones en le proyecto)  
 	Interface
 	Abstract
 	Polimorfirmo
@@ -192,12 +193,3 @@ React:
 
 React/Markdown
 	remark: https://remark.js.org/
-	
-Estudio
-Bases de datos consultas complejas
-Expresiones regulares
-CQRS
-https://github.com/msgphp/symfony-demo-app
-https://docs.microsoft.com/es-es/azure/architecture/patterns/cqrs
-https://www.youtube.com/watch?v=8t0vNu2fCCM 
-WebPush notifications: https://web-push-book.gauntface.com/    https://github.com/bpolaszek/webpush-bundle
