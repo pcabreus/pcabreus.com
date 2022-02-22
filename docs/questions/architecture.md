@@ -1,3 +1,5 @@
+https://apiumhub.com/es/tech-blog-barcelona/recomendaciones-sobre-arquitectura-de-software/
+
 LinkedIn sobre Aquitectura
 
 Pregunta 1 de 3
