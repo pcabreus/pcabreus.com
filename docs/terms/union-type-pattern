@@ -1,1 +1,20 @@
 UNION Type pattern to manage severals fields depend on models
+
+En programación, un "union type" (tipo unión) es un tipo de dato que puede contener valores de diferentes tipos, pero solo uno de esos tipos a la vez. Esto significa que una variable de unión puede almacenar un valor de uno de los tipos especificados en la unión en un momento dado, pero no puede contener valores de múltiples tipos al mismo tiempo.
+
+Los tipos de unión son especialmente útiles en lenguajes de programación que admiten tipado estático, ya que permiten definir una variable que puede contener diferentes tipos de datos en momentos diferentes, lo que puede ser útil en ciertos casos.
+
+Por ejemplo, en TypeScript (un lenguaje de programación basado en JavaScript), puedes definir un tipo de unión de la siguiente manera:
+
+```typescript
+type MiUnion = string | number;
+
+let miVariable: MiUnion;
+
+miVariable = "Hola"; // Ahora miVariable contiene una cadena (string).
+miVariable = 42;     // Ahora miVariable contiene un número (number).
+```
+
+En este ejemplo, `MiUnion` es un tipo de unión que puede contener valores de tipo `string` o `number`. La variable `miVariable` se declara con este tipo de unión y puede contener valores de cualquiera de esos dos tipos, pero no puede contener valores de otros tipos.
+
+Los tipos de unión son una forma útil de hacer que el sistema de tipos sea más flexible y permitir que las variables almacenen una variedad de valores, pero aún así proporcionando cierta seguridad de tipos en tiempo de compilación.
